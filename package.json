@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "collections": "^5.1.13",
+    "mongo": "^0.1.0",
+    "mongodb": "^4.4.1",
+    "mqtt": "^4.3.7"
+  }
+}
